@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-root: /seven-timelines
+#root: /seven-timelines
 #<link rel="stylesheet" href="https://th3incredibl3hulk.github.io/seven_timelines/css/main.css"
 title: This Timeline
 email: larry@larryhau.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is my personal blog intended to capture whatever I think is worth writing.  Some things
   about my career, being a father, being a spouse and a human living right now.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://th3incredibl3hulk.github.io/seven_timelines/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: larryhau
 github_username:  th3incredibl3hulk

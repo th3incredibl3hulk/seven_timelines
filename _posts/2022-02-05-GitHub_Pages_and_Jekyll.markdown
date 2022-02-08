@@ -25,8 +25,8 @@ Don't ask me why, but it did.
 
 After mucking with it for a while, I landed on this successfully:
 {% highlight ruby %}
-baseurl: ""
-url: "/seven_timelines"
+baseurl: "/seven_timelines"
+url: "https://th3incredibl3hulk.github.io"
 {% endhighlight %}
 
 Now everything is FINALLY functioning as expected.  CSS is loading, site pages are referenceable and it still builds locally as well.

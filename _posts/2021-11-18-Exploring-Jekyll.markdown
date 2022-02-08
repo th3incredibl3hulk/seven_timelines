@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2Exploring Jekyll"
+title:  "Exploring Jekyll"
 date:   2021-11-18 20:40:01 -0700
 categories: jekyll update
 ---

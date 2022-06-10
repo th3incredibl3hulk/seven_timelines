@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "MAME"
+date:   2022-06-09 21:21:01 -0700
+categories: jekyll update
+tags: MAME, walkthrough
+---
+I've begun working on a  [MAME][mame] cabinet and have really struggled to find good walkthroughs so thought I'd start recording on my (likely to be long) journey. If you're not familiar, click that link as MAME is generally regarded as the best arcade cabinet emulator and basically every reference for similar arcade cabinets pointed back to it.
+
+There are many considerations with MAME of course but so far I've 
+
+
+
+[mame]:https://pages.github.com/
+

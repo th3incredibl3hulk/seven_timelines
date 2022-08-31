@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MBA Overview"
-date:   2022-08-30 19:23:01 -0700
+date:   2022-08-30 19:23:01 -0000
 categories: MBA
 tags: MBA, education, school, b school, Masters, Graduate, Undergraduate
 ---

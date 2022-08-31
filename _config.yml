@@ -28,6 +28,9 @@ url: "https://th3incredibl3hulk.github.io" # the base hostname & protocol for yo
 twitter_username: larryhau
 github_username:  th3incredibl3hulk
 
+# Set Timezone
+timezone: America/Denver
+
 # Build settings
 theme: minima
 plugins:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitHub Pages and Jekyll"
-date:   2022-02-05 21:13:01 -0700
+date:   2022-02-05 21:13:01 -0000
 categories: jekyll update
 ---
 Wow.  I have spent an inordinately long amount of time trying to get Jekyll working with [GitHub Pages][github-pages].  GH Pages is a fantastic product and usually super easy to use but something about it's function with Jekyll creates a weird nuance I don't understand.
